@@ -1,5 +1,5 @@
 # Readme for Call Center Analysis Power BI Report
-
+![Report Screenshot](Report%20Screenshot.png)
 ## Overview
 
 This Power BI report presents an analysis of call center performance for October 2020. The data includes call volume, call duration, customer sentiment, and satisfaction scores. This report aims to provide insights into areas needing improvement and highlight key metrics affecting customer experience.
